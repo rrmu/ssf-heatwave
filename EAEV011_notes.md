@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ./PROGRESS
----
-
 Regeneron ISEF Sichuan Science Fair 2023, Project EAEV 011: PROJECT NOTES
 
 # **Quantifying Heatwaves' Impact on Global Biodiversity Loss**
