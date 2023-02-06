@@ -369,18 +369,3 @@ class Continental:
         ax.axis('equal')
         ax.axis('off')
 ```
-
-## Trends
-
-### Overall Correlation
-
-### Region Correlation
-
-### Location Correlation Map
-
-A correlation map is suggested when I was talking to a specialist of this field.
-
-# Problems and Solutions in Work Compilation
-
-## List of proposed suggestions of change
-
